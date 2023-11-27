@@ -1,15 +1,22 @@
-# Canary Launcher Update
+# Holy Baiak - Launcher Update
+
+Laucher Update usado no projeto holy baiak 13x.
+
+## Repositório Base:
+- Canary Launcher Update: [Launcher](https://github.com/opentibiabr/canary-launcher)
+
+## Requesitos:
 * C# WPF
 * .NET 6.0
 
-### Information
+## Informação:
 
-* ✅ Launcher like Tibia Global
-* ✅ Download client
-* ✅ Auto check update
-* ✅ Update client
-* ✅ Run the client
+* ✅ Lançador como Tibia Global
+* ✅ Baixar cliente
+* ✅ Atualização de verificação automática
+* ✅ Atualizar cliente
+* ✅ Execute o cliente
 
-You must configure the "launcher_config.json" url in MainWindow.cs and SplashScreen.cs
-
-In launcher_config.json you need to make necessary settings to use the launcher. (Read the explanation of how to use each configuration)
+## Observação:
+- Você deve configurar a url "launcher_config.json" em MainWindow.cs e SplashScreen.cs
+- Em launcher_config.json você precisa fazer as configurações necessárias para usar o launcher. (Leia a explicação de como usar cada configuração)
