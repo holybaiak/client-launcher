@@ -2,7 +2,6 @@ bin
 obj
 .vs
 *.user
-*.dll
 
 # Build results
 Properties/
